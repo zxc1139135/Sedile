@@ -11,7 +11,7 @@ We will release our full code in the near future.
 ## This is a demo Code
 ### Installation
 - Clone this repo
-> - git clone 
+> - git clone https://anonymous.4open.science/r/Sedile-C2E0/
 
 
 ### Run
